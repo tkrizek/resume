@@ -1,5 +1,8 @@
 *.bak
 
+current/
+
+# TeX
 *.aux
 *.glo
 *.idx
